@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @itsnivek
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning python,sql,R
-
+- 👋 Hi, I’m [@itsnivek](http://github.com/itsnivek)
+- 👀 I’m interested in learning more about programming!
+- 🌱 I’m currently learning Python, SQL and R
 
 <!---
 itsnivek/itsnivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
